@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+remote_theme: "godalming123/minimal"
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Rainfall Team
 description: info & updates about rainfall projects.
