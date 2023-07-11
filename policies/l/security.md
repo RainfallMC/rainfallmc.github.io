@@ -6,9 +6,9 @@ These are the versions currently able to be reported for vulnerabilities:
 
 | Version | Is reportable?     |
 | ------- | ------------------ |
-| 1.1.x   | :white_check_mark: |
-| 1.0.x   | :white_check_mark: |
-| 0.x (beta)   | :x:           |
+| 1.1.x   | ✅: |
+| 1.0.x   | ✅ |
+| 0.x (beta)   | ❌           |
 
 ## Reporting a Vulnerability
 
