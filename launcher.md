@@ -1,5 +1,14 @@
-# Rainfall Launcher
+![Rainfall Launcher Logo](https://u.cubeupload.com/4x2mc/Untitleddesign1remov.png =150x150)
+# **Rainfall Launcher**
 ## A simple, clean, and intuitive launcher for Minecraft: Java Edition.
+Rainfall Launcher is in extremely intuitive launcher, that does everything for you, such as:
 
-### View the changelogs [here.](https://rainfallmc.github.io/changelog/l)
-### Report a vulnerability [here.](https://rainfallmc.github.io/policies/l/security)
+ - Download Minecraft & Forge
+ - Download Java (if not already installed)
+ - Install custom shaders + modpacks
+
+# [Download **v1.1.0**](https://github.com/RainfallMC/Launcher/releases/tag/1.1.0)
+### [Changelog](https://rainfallmc.github.io/changelog/l/110)
+### [Report a bug](https://rainfallmc.github.io/policies/l/security)
+
+
