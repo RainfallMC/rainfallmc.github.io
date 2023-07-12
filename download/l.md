@@ -9,4 +9,4 @@ Some downloads may not be listed on this page.
 
 ## Downloads
 ### [Latest (1.1.0)](https://github.com/RainfallMC/Launcher/releases/tag/1.1.0)
-**v1.1.0** [(changelog)](https://rainfallmc.github.io/changelog/l/110)
+**v1.1.0** [(changelog)](https://rainfallmc.github.io/changelog/l/110), [(download)](https://rainfallmc.github.io/download/l/110)
