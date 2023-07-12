@@ -7,7 +7,7 @@ Rainfall Launcher is in extremely intuitive launcher, that does everything for y
  - Download Java (if not already installed)
  - Install custom shaders + modpacks
 
-# [Download **v1.1.0**](https://rainfallmc.github.io/download/110)
+# [Download **v1.1.0**](https://rainfallmc.github.io/download/l/110)
 [download archive](https://rainfallmc.github.io/download/l)
 
 [changelog](https://rainfallmc.github.io/changelog/l/110)
