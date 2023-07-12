@@ -1,6 +1,7 @@
 # Rainfall Launcher
 ## Downloads Archive
 Some downloads may not be listed on this page.
+
 | Version | Is listed?     |
 | ------- | ------------------ |
 | >1.0.x   | ✅               |
